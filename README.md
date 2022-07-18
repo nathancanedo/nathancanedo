@@ -1,4 +1,4 @@
-## Olá, sou Nathan Canedo
+# Olá, sou Nathan Canedo
 
 - 📚  Atualmente estou estudando HTML, CSS e JavaScript.
 - 🎓  Estou no 1° período de Análise e Desenvolvimento de Sistemas.
