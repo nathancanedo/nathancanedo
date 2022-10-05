@@ -1,7 +1,7 @@
 # Olá, sou Nathan Canedo
 
 - 📚  Atualmente estou estudando HTML, CSS e JavaScript.
-- 🎓  Estou no 1° período de Análise e Desenvolvimento de Sistemas.
+- 🎓  Estou no 2° período de Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/nathancanedo">
